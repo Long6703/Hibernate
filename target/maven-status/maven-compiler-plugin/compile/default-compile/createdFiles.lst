@@ -1,0 +1,6 @@
+entities/Student.class
+Ultis/HibernateConfig.class
+entities/Subject.class
+entities/Mark.class
+com/mycompany/myhomework/Myhomework.class
+entities/Department.class
